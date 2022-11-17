@@ -1,0 +1,52 @@
+export default [
+    {
+        stats: 'success',
+        data: {
+        stats: {
+            volume: '6554685985.623574',
+            total: 198,
+        },
+        exchanges: [
+            {
+            coinrankingUrl: 'https://coinranking.com/exchange/-zdvbieRdZ+binance',
+            uuid: '-zdvbieRdZ',
+            name: 'Binance',
+            iconUrl: 'https://cdn.coinranking.com/mDTK5qrmq/binance.svg',
+            numberOfMarkets: 3,
+            volume: '776337030.2052088',
+            rank: 1,
+            marketShare: '12.22',
+            verified: true,
+            recommended: true,
+            description: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA',
+            },
+            {
+                coinrankingUrl: 'https://coinranking.com/exchange/-zdvbieRdZ+binance',
+                uuid: '-zdvbieRdZ',
+                name: 'Binance',
+                iconUrl: 'https://cdn.coinranking.com/mDTK5qrmq/binance.svg',
+                numberOfMarkets: 3,
+                volume: '776337030.2052088',
+                rank: 1,
+                marketShare: '12.22',
+                verified: true,
+                recommended: true,
+                description: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA',
+            },
+            {
+                    coinrankingUrl: 'https://coinranking.com/exchange/-zdvbieRdZ+binance',
+                    uuid: '-zdvbieRdZ',
+                    name: 'Binance',
+                    iconUrl: 'https://cdn.coinranking.com/mDTK5qrmq/binance.svg',
+                    numberOfMarkets: 3,
+                    volume: '776337030.2052088',
+                    rank: 1,
+                    marketShare: '12.22',
+                    verified: true,
+                    recommended: true,
+                    description: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA',
+            },
+        ],
+        },
+    },
+];
